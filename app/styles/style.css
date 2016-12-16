@@ -1,0 +1,11 @@
+*{padding: 0;margin: 0;}
+body{width: 80%;margin: 0 auto;}
+.nav{padding: 10px 0;border-top: 2px solid #999;border-bottom: 1px solid #dee2e6;}
+.nav h2{font-size: 20px;margin: 0;font-weight: bold;color: #254282;}
+.nav h2 a{float: left;}
+.nav span{float: left;color: #999;font-size: 14px;margin-top: 7px;}
+.nav div{margin-top: 5px;}
+ul{float: left;}
+li{list-style: none;}
+/*.nav .wd{float: left;}*/
+img{width: 240px;height: 170px;}
